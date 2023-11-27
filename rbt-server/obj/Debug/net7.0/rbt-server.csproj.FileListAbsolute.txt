@@ -1,0 +1,17 @@
+D:\github\rbt\rbt-server\bin\Debug\net7.0\rbt-server.exe
+D:\github\rbt\rbt-server\bin\Debug\net7.0\rbt-server.deps.json
+D:\github\rbt\rbt-server\bin\Debug\net7.0\rbt-server.runtimeconfig.json
+D:\github\rbt\rbt-server\bin\Debug\net7.0\rbt-server.dll
+D:\github\rbt\rbt-server\bin\Debug\net7.0\rbt-server.pdb
+D:\github\rbt\rbt-server\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.csproj.AssemblyReference.cache
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.AssemblyInfoInputs.cache
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.AssemblyInfo.cs
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.csproj.CoreCompileInputs.cache
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.csproj.CopyComplete
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.dll
+D:\github\rbt\rbt-server\obj\Debug\net7.0\refint\rbt-server.dll
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.pdb
+D:\github\rbt\rbt-server\obj\Debug\net7.0\rbt-server.genruntimeconfig.cache
+D:\github\rbt\rbt-server\obj\Debug\net7.0\ref\rbt-server.dll
